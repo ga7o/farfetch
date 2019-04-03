@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio folders
+.vscode
+.vs
+
+# UI Development generated files
+node_modules
+dist
